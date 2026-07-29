@@ -103,7 +103,7 @@ I am open to collaborations, internships, and cybersecurity projects.
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [debiaro@gmail.com](mailto:debiaro87@gmail.com) |
+| 📧 **Email** | [debiaro87@gmail.com](mailto:debiaro87@gmail.com) |
 | 💬 **Telegram** | [@debiaro](https://t.me/debiAroo) |
 | 🐙 **GitHub** | [github.com/debiaro87](https://github.com/debiaro87) |
 | 📞 **Phone** | +251 991 534 863 |
