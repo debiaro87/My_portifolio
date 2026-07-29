@@ -11,8 +11,8 @@
 ### *"Building secure digital experiences through modern web development and cybersecurity innovation."*
 
 [![Portfolio Live](https://img.shields.io/badge/🌐%20Live%20Portfolio-debiaro87.github.io-00d4ff?style=for-the-badge)](https://debiaro87.github.io)
-[![Email](https://img.shields.io/badge/📧%20Email-debiaro@gmail.com-red?style=for-the-badge)](mailto:debiaro@gmail.com)
-[![Telegram](https://img.shields.io/badge/💬%20Telegram-@debiaro-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/debiaro)
+[![Email](https://img.shields.io/badge/📧%20Email-debiaro@gmail.com-red?style=for-the-badge)](mailto:debiaro87@gmail.com)
+[![Telegram](https://img.shields.io/badge/💬%20Telegram-@debiAroo-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/debiAroo)
 
 </div>
 
@@ -103,8 +103,8 @@ I am open to collaborations, internships, and cybersecurity projects.
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [debiaro@gmail.com](mailto:debiaro@gmail.com) |
-| 💬 **Telegram** | [@debiaro](https://t.me/debiaro) |
+| 📧 **Email** | [debiaro@gmail.com](mailto:debiaro87@gmail.com) |
+| 💬 **Telegram** | [@debiaro](https://t.me/debiAroo) |
 | 🐙 **GitHub** | [github.com/debiaro87](https://github.com/debiaro87) |
 | 📞 **Phone** | +251 991 534 863 |
 | 🌍 **Location** | Jimma University, Ethiopia 🇪🇹 |
