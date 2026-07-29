@@ -11,7 +11,7 @@
 ### *"Building secure digital experiences through modern web development and cybersecurity innovation."*
 
 [![Portfolio Live](https://img.shields.io/badge/🌐%20Live%20Portfolio-debiaro87.github.io-00d4ff?style=for-the-badge)](https://debiaro87.github.io)
-[![Email](https://img.shields.io/badge/📧%20Email-debiaro@gmail.com-red?style=for-the-badge)](mailto:debiaro87@gmail.com)
+[![Email](https://img.shields.io/badge/📧%20Email-debiaro87@gmail.com-red?style=for-the-badge)](mailto:debiaro87@gmail.com)
 [![Telegram](https://img.shields.io/badge/💬%20Telegram-@debiAroo-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/debiAroo)
 
 </div>
